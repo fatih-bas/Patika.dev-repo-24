@@ -8,6 +8,7 @@
 
 ### Live
 
+https://react-redux-memory-game.netlify.app/
 
 ### Setup
 1. Clone the repository and install the dependencies
